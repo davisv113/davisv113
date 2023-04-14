@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-silvano-vieira-a712a41b6/)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davisv113&show_icons=true&theme=highcontrast&locale=pt-br)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davisv113&show_icons=true&theme=highcontrast)
 
 ## Tecnologias que uso no meu dia
 
@@ -16,6 +16,6 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisv113&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisv113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### E-mail para contato: davi113@hotmail.com
