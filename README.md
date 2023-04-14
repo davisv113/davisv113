@@ -1,6 +1,6 @@
 ### Olá, meu nome é Davi! 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-silvano-vieira-a712a41b6/)
+<a href="https://www.linkedin.com/in/davi-silvano-vieira-a712a41b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davisv113&show_icons=true&theme=highcontrast)
 
